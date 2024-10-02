@@ -1,0 +1,280 @@
+/*--------------------------------------------------------------
+    404 Error / Not-found Page
+--------------------------------------------------------------*/
+
+.error404,
+.error404 > .wrapper
+{
+    width: 100%;
+    height: 100%;
+}
+.error404 > .wrapper
+{
+    display: flex;
+
+    padding: 35px 0 50px;
+}
+
+.center-content-wrapper
+{
+    display: table;
+
+    width: 100%;
+    height: 100%;
+}
+.center-content-wrapper .center-content
+{
+    display: table-cell;
+
+    width: 100%;
+    height: 100%;
+
+    vertical-align: middle;
+}
+
+.error404 h1,
+.error404 h2,
+.error404 h3,
+.error404 h4,
+.error404 h5,
+.error404 h6
+{
+    line-height: 1em;
+}
+.error404 h2
+{
+    font-size: 170px;
+    font-weight: bold;
+}
+.error404 h3
+{
+    font-size: 70px;
+    font-weight: bold;
+}
+.error404 h4
+{
+    font-size: 60px;
+    font-weight: 300;
+}
+.error404 .wdt-button,
+.error404 .wdt-button.type2
+{
+    font-size: 1em;
+    line-height: normal;
+
+    position: relative;
+    z-index: 0;
+
+    display: inline-flex;
+    overflow: hidden;
+    align-items: stretch;
+
+    margin: 0;
+    padding: 15px 35px;
+
+    -webkit-transition: var(--wdtBaseTransition);
+            transition: var(--wdtBaseTransition);
+    text-decoration: none;
+    letter-spacing: 0;
+    text-transform: none;
+
+    border: 1px solid transparent;
+}
+
+.error404 .wdt-button:before,
+.error404 .wdt-button:after
+{
+    position: absolute;
+    z-index: -1;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+
+    display: inline !important;
+
+    width: auto;
+    height: auto;
+
+    content: '';
+    -webkit-transition: inherit;
+            transition: inherit;
+    pointer-events: none;
+}
+
+/* Hover - Shutter-Out-Vertical */
+
+.error404 .wdt-button:after
+{
+    -webkit-transform: scaleY(0);
+            transform: scaleY(0);
+}
+
+.error404 .wdt-button:focus:after,
+.error404 .wdt-button:hover:after
+{
+    -webkit-transform: scaleY(1);
+            transform: scaleY(1);
+}
+
+.error404 .wdt-button:after
+{
+    background-color: var(--wdtSecondaryColor);
+}
+
+.error404 .wdt-button:hover:after
+{
+    color: rgba(var(--wdt-elementor-color-secondary-rgb), .05);
+}
+
+.error404 .type2 #wdt-style-picker ul li:before,
+.error404 #wdt-style-picker ul li:before
+{
+    content: none;
+}
+.error404 .type2 #wdt-style-picker h3,
+.error404 #wdt-style-picker h3
+{
+    letter-spacing: 0;
+    text-transform: capitalize;
+}
+.error404 #wdt-style-picker h2
+{
+    top: 0;
+}
+
+.error-box-inner *
+{
+    text-align: center;
+}
+
+.error404 .menu-links
+{
+    margin: 40px 0;
+}
+.error404 .menu-links li
+{
+    font-size: 16px;
+
+    display: inline-block;
+
+    margin: 0 2px 5px;
+    padding: 0;
+
+    text-transform: uppercase;
+}
+.error404 .menu-links li a
+{
+    display: inline-block;
+
+    padding: 7px 20px;
+}
+
+.error404 #searchform .wdt-search-icon
+{
+    display: none;
+}
+.error404 #searchform
+{
+    position: relative;
+
+    display: inline-block;
+
+    width: 60%;
+    margin: 0 auto;
+}
+.error404 #searchform input[type='text'],
+.error404 #searchform input[type='submit']
+{
+    height: 52px;
+}
+.error404 #searchform input[type='submit']
+{
+    position: absolute;
+    top: 0;
+    right: 0;
+
+    margin-top: 0;
+    padding: 13px 20px 13px;
+
+    border-radius: 0;
+}
+
+.error404 .container
+{
+    height: 100%;
+
+    text-align: center;
+}
+
+
+
+/*--------------------------------------------------------------
+    Default Colors
+--------------------------------------------------------------*/
+
+.error404 .wdt-dark-bg,
+.error404 .menu-links li:hover a
+{
+    background: var(--wdtHeadAltColor);
+}
+.error404 .menu-links li a
+{
+    background: rgba(var(--wdtHeadAltColorRgb),.05);
+}
+
+.error404 .wdt-button,
+.error404 .wdt-button.type2,
+.error404 .menu-links li:hover a
+{
+    color: var(--wdtAccentTxtColor);
+}
+
+.error404 .wdt-button
+{
+    background-color: var(--wdtPrimaryColor);
+}
+.error404 .wdt-button:hover
+{
+    color: var(--wdtHeadAltColor);
+    background-color: var(--wdtSecondaryColor);
+}
+
+.error404 .menu-links li a
+{
+    color: var(--wdtHeadAltColor);
+}
+
+
+
+/*--------------------------------------------------------------
+    Accents
+--------------------------------------------------------------*/
+
+.error404 h2
+{
+    color: var(--wdtPrimaryColor);
+}
+
+
+
+/*--------------------------------------------------------------
+ Responsive
+--------------------------------------------------------------*/
+
+/* Common Styles for the devices below 479px width */
+@media only screen and (max-width: 479px)
+{
+    .error404 h2
+    {
+        font-size: var(--wdtFontSize_H1);
+    }
+    .error404 h3
+    {
+        font-size: var(--wdtFontSize_H2);
+    }
+    .error404 h4
+    {
+        font-size: var(--wdtFontSize_H3);
+    }
+}

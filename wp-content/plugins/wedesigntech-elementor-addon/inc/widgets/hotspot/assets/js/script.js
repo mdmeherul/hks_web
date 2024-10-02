@@ -1,0 +1,67 @@
+(function ($) {
+
+  const wdtHotspotWidgetHandler = function($scope, $) {
+
+    const $this_holder = $scope.find('.wdt-hotspot-holder');
+    const $this_holder_item = $this_holder[0];
+    const $settings = $this_holder.data('settings');
+    const $hotspot_items = $this_holder.find('.wdt-hotspot-repeater-item');
+
+    $hotspot_items.each(function () {
+
+      const $this_hotspot = $(this);
+      const $this_hotspot_item = $this_hotspot[0];
+
+      let $tooltipPlacement = $this_hotspot.data('tooltip-position');
+      if($tooltipPlacement == 'global' || $tooltipPlacement == '') {
+        $tooltipPlacement = $settings['tooltipPlacement'];
+      }
+
+      const $tooltipContent = $this_hotspot.data('tooltip-content');
+
+      if ($this_hotspot_item._tippy) {
+        $this_hotspot_item._tippy.destroy();
+      }
+
+      const $options = {
+        content: $tooltipContent,
+        placement: $tooltipPlacement,
+        trigger: $settings['tooltipTrigger'],
+        arrow: $settings['tooltipArrow'],
+        appendTo: $this_holder_item,
+        allowHTML: true,
+        hideOnClick: 'manual' !== $settings['tooltipTrigger'],
+        popperOptions: {
+          strategy: 'fixed',
+        },
+        onShow() {
+          $this_hotspot.addClass('wdt-hotspot-item-active');
+        },
+        onHidden() {
+          $this_hotspot.removeClass('wdt-hotspot-item-active');
+        },
+      };
+
+      if ('manual' !== $settings['tooltipTrigger']) {
+        $options['animation'] = $settings['tooltipAnimation'];
+        $options['delay'] = $settings['tooltipDelay'];
+      }
+
+      tippy($this_hotspot_item, $options);
+
+      if (
+        'manual' === $settings['tooltipTrigger'] &&
+        $this_hotspot_item._tippy
+      ) {
+        $this_hotspot_item._tippy.show();
+      }
+
+    });
+
+  };
+
+  $(window).on('elementor/frontend/init', function () {
+		elementorFrontend.hooks.addAction('frontend/element_ready/wdt-hotspot.default', wdtHotspotWidgetHandler);
+  });
+
+})(jQuery);

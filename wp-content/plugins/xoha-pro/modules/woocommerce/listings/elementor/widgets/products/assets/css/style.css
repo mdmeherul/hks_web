@@ -1,0 +1,36 @@
+
+/*--------------------------------------------------------------*/
+    /* #region - Products Listing */
+/*--------------------------------------------------------------*/
+
+    /*----*****---- << Product Pagination >> ----*****----*/
+    .wdt-product-pagination { clear: both; float: left; margin: 30px 0 10px; padding: 0; text-align: center; width:100%; }
+    .wdt-product-pagination ul { float:left; margin: 0; padding: 0; }
+
+    .wdt-product-pagination ul li, .wdt-product-pagination .prev-post, .wdt-product-pagination .next-post { display: inline-block; float: none; margin: 0; line-height: 1.5em; padding: 0; }
+
+    .wdt-product-pagination ul li a, .wdt-product-pagination ul li span, .wdt-product-pagination .prev-post a, .wdt-product-pagination .next-post a { border: 1px solid var(--wdtBorderColor); color: var(--wdtHeadAltColor); display: inline-block; font-size: 13px; font-weight: 600; letter-spacing: 0; margin: 10px 10px 0 0; padding: 6px 15px 5px; position: relative; text-transform: uppercase; -webkit-transition: var(--wdtBaseTransition); transition: var(--wdtBaseTransition); }
+
+    .wdt-product-pagination ul li a i { color: var(--wdtHeadAltColor); font-size: 14px; }
+    .wdt-product-pagination ul li a.next i { margin-left: 5px; }
+    .wdt-product-pagination ul li a.prev i { margin-right: 5px; }
+
+    .wdt-product-pagination .prev-post a span { margin-right: 0; }
+    .wdt-product-pagination .next-post a span { margin-left: 0; }
+
+    .woocommerce .wdt-product-pagination ul { clear: none; display: inline-block; float: none; }
+
+    .wdt-product-pagination ul li a:hover, .wdt-product-pagination ul li span.current,
+    .wdt-product-pagination .prev-post a:hover, .wdt-product-pagination .next-post a:hover { border-color: transparent; color: var(--wdtAccentTxtColor); }
+
+/* #endregion - Products Listing */
+
+/*--------------------------------------------------------------
+    Accents
+--------------------------------------------------------------*/
+
+	/*----*****---- <<  Primary >> ----*****----*/
+    .wdt-product-pagination ul li a:hover, .wdt-product-pagination ul li span.current,
+    .wdt-product-pagination .prev-post a:hover, .wdt-product-pagination .next-post a:hover { background-color: var(--wdtPrimaryColor); }
+
+/* #endregion - Accents */

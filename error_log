@@ -1,0 +1,266 @@
+[09-Jun-2024 12:39:11 UTC] PHP Warning:  Undefined property: stdClass::$lists in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[09-Jun-2024 12:39:11 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[09-Jun-2024 12:39:22 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 114688 bytes) in /home/henkanso/public_html/wp-includes/class-wpdb.php on line 2349
+[09-Jun-2024 12:40:05 UTC] PHP Warning:  Undefined property: stdClass::$lists in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[09-Jun-2024 12:40:05 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[09-Jun-2024 12:40:49 UTC] PHP Warning:  Undefined property: stdClass::$lists in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[09-Jun-2024 12:40:49 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[09-Jun-2024 12:47:46 UTC] PHP Warning:  Undefined property: stdClass::$lists in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[09-Jun-2024 12:47:46 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[09-Jun-2024 12:48:37 UTC] PHP Warning:  Undefined property: stdClass::$lists in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[09-Jun-2024 12:48:37 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[09-Jun-2024 12:49:42 UTC] PHP Warning:  Undefined property: stdClass::$lists in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[09-Jun-2024 12:49:42 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[09-Jun-2024 12:50:23 UTC] PHP Warning:  Undefined property: stdClass::$lists in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[09-Jun-2024 12:50:23 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[09-Jun-2024 12:50:41 UTC] PHP Warning:  Undefined property: stdClass::$lists in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[09-Jun-2024 12:50:41 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[09-Jun-2024 12:51:17 UTC] PHP Warning:  Undefined property: stdClass::$lists in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[09-Jun-2024 12:51:17 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[09-Jun-2024 12:51:48 UTC] PHP Warning:  Undefined property: stdClass::$lists in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[09-Jun-2024 12:51:48 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[09-Jun-2024 12:52:17 UTC] PHP Warning:  Undefined property: stdClass::$lists in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[09-Jun-2024 12:52:17 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[09-Jun-2024 12:52:50 UTC] PHP Warning:  Undefined property: stdClass::$lists in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[09-Jun-2024 12:52:50 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[09-Jun-2024 12:52:57 UTC] PHP Warning:  Undefined property: stdClass::$lists in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[09-Jun-2024 12:52:57 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[09-Jun-2024 12:53:31 UTC] PHP Warning:  Undefined property: stdClass::$lists in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[09-Jun-2024 12:53:31 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[09-Jun-2024 13:19:40 UTC] PHP Warning:  Undefined property: stdClass::$lists in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[09-Jun-2024 13:19:40 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[09-Jun-2024 13:20:19 UTC] PHP Warning:  Undefined property: stdClass::$lists in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[09-Jun-2024 13:20:19 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[09-Jun-2024 13:21:10 UTC] PHP Warning:  Undefined property: stdClass::$lists in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[09-Jun-2024 13:21:10 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[09-Jun-2024 13:21:28 UTC] PHP Warning:  Undefined property: stdClass::$lists in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[09-Jun-2024 13:21:28 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[09-Jun-2024 13:22:00 UTC] PHP Warning:  Undefined property: stdClass::$lists in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[09-Jun-2024 13:22:00 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[09-Jun-2024 13:22:18 UTC] PHP Warning:  Undefined property: stdClass::$lists in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[09-Jun-2024 13:22:18 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[09-Jun-2024 13:22:37 UTC] PHP Warning:  Undefined property: stdClass::$lists in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[09-Jun-2024 13:22:37 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[09-Jun-2024 13:22:54 UTC] PHP Warning:  Undefined property: stdClass::$lists in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[09-Jun-2024 13:22:54 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[09-Jun-2024 13:23:22 UTC] PHP Warning:  Undefined property: stdClass::$lists in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[09-Jun-2024 13:23:22 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[09-Jun-2024 13:24:04 UTC] PHP Warning:  Undefined property: stdClass::$lists in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[09-Jun-2024 13:24:04 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[09-Jun-2024 13:24:48 UTC] PHP Warning:  Undefined property: stdClass::$lists in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[09-Jun-2024 13:24:48 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[09-Jun-2024 13:25:20 UTC] PHP Warning:  Undefined property: stdClass::$lists in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[09-Jun-2024 13:25:20 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[09-Jun-2024 13:25:40 UTC] PHP Warning:  Undefined property: stdClass::$lists in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[09-Jun-2024 13:25:40 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[09-Jun-2024 13:26:23 UTC] PHP Warning:  Undefined property: stdClass::$lists in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[09-Jun-2024 13:26:23 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[09-Jun-2024 13:26:39 UTC] PHP Warning:  Undefined property: stdClass::$lists in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[09-Jun-2024 13:26:39 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[09-Jun-2024 13:27:45 UTC] PHP Warning:  Undefined property: stdClass::$lists in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[09-Jun-2024 13:27:45 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[09-Jun-2024 13:27:54 UTC] PHP Warning:  Undefined property: stdClass::$lists in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[09-Jun-2024 13:27:54 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[09-Jun-2024 13:28:36 UTC] PHP Warning:  Undefined property: stdClass::$lists in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[09-Jun-2024 13:28:36 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[09-Jun-2024 13:28:54 UTC] PHP Warning:  Undefined property: stdClass::$lists in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[09-Jun-2024 13:28:54 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[09-Jun-2024 13:30:39 UTC] PHP Warning:  Undefined property: stdClass::$lists in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[09-Jun-2024 13:30:39 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[09-Jun-2024 13:44:31 UTC] PHP Warning:  Undefined property: stdClass::$lists in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[09-Jun-2024 13:44:31 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[09-Jun-2024 16:24:20 UTC] PHP Warning:  Undefined property: stdClass::$lists in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[09-Jun-2024 16:24:20 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[09-Jun-2024 16:24:30 UTC] PHP Warning:  Undefined property: stdClass::$lists in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[09-Jun-2024 16:24:30 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[10-Jun-2024 01:44:21 UTC] PHP Warning:  Undefined property: stdClass::$lists in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[10-Jun-2024 01:44:21 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[10-Jun-2024 01:48:48 UTC] PHP Warning:  Undefined property: stdClass::$lists in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[10-Jun-2024 01:48:48 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[10-Jun-2024 10:36:38 UTC] PHP Warning:  Undefined property: stdClass::$lists in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[10-Jun-2024 10:36:38 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[10-Jun-2024 12:57:57 UTC] PHP Warning:  Undefined property: stdClass::$lists in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[10-Jun-2024 12:57:57 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[10-Jun-2024 12:58:15 UTC] PHP Warning:  Undefined property: stdClass::$lists in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[10-Jun-2024 12:58:15 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[10-Jun-2024 12:58:20 UTC] PHP Warning:  Undefined property: stdClass::$lists in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[10-Jun-2024 12:58:20 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[10-Jun-2024 13:06:37 UTC] PHP Warning:  Undefined property: stdClass::$lists in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[10-Jun-2024 13:06:37 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[10-Jun-2024 14:36:44 UTC] PHP Warning:  Undefined property: stdClass::$lists in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[10-Jun-2024 14:36:44 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[10-Jun-2024 19:21:43 UTC] PHP Warning:  Undefined property: stdClass::$lists in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[10-Jun-2024 19:21:43 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[10-Jun-2024 19:35:11 UTC] PHP Warning:  Undefined property: stdClass::$lists in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[10-Jun-2024 19:35:11 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[10-Jun-2024 21:41:21 UTC] PHP Warning:  Undefined property: stdClass::$lists in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[10-Jun-2024 21:41:21 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[10-Jun-2024 22:16:03 UTC] PHP Warning:  Undefined property: stdClass::$lists in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[10-Jun-2024 22:16:03 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[10-Jun-2024 23:20:04 UTC] PHP Warning:  Undefined property: stdClass::$lists in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[10-Jun-2024 23:20:04 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[11-Jun-2024 01:57:55 UTC] PHP Warning:  Undefined property: stdClass::$lists in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[11-Jun-2024 01:57:55 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[11-Jun-2024 02:45:38 UTC] PHP Warning:  Undefined property: stdClass::$lists in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[11-Jun-2024 02:45:38 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[11-Jun-2024 04:21:57 UTC] PHP Warning:  Undefined property: stdClass::$lists in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[11-Jun-2024 04:21:57 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[11-Jun-2024 07:39:19 UTC] PHP Warning:  Undefined property: stdClass::$lists in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[11-Jun-2024 07:39:19 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[11-Jun-2024 07:52:20 UTC] PHP Warning:  Undefined property: stdClass::$lists in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[11-Jun-2024 07:52:20 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[11-Jun-2024 09:43:59 UTC] PHP Warning:  Undefined property: stdClass::$lists in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[11-Jun-2024 09:43:59 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[11-Jun-2024 09:57:43 UTC] PHP Warning:  Undefined property: stdClass::$lists in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[11-Jun-2024 09:57:43 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[11-Jun-2024 10:21:36 UTC] PHP Warning:  Undefined property: stdClass::$lists in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[11-Jun-2024 10:21:36 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[11-Jun-2024 11:11:18 UTC] PHP Warning:  Undefined property: stdClass::$lists in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[11-Jun-2024 11:11:18 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[11-Jun-2024 11:11:28 UTC] PHP Warning:  Undefined property: stdClass::$lists in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[11-Jun-2024 11:11:28 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[11-Jun-2024 11:14:23 UTC] PHP Warning:  Undefined property: stdClass::$lists in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[11-Jun-2024 11:14:23 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[11-Jun-2024 11:14:34 UTC] PHP Warning:  Undefined property: stdClass::$lists in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[11-Jun-2024 11:14:34 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[11-Jun-2024 11:36:07 UTC] PHP Warning:  Undefined property: stdClass::$lists in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[11-Jun-2024 11:36:07 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[11-Jun-2024 11:37:14 UTC] PHP Warning:  Undefined property: stdClass::$lists in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[11-Jun-2024 11:37:14 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[11-Jun-2024 11:37:37 UTC] PHP Warning:  Undefined property: stdClass::$lists in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[11-Jun-2024 11:37:37 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[11-Jun-2024 11:37:49 UTC] PHP Warning:  Undefined property: stdClass::$lists in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[11-Jun-2024 11:37:49 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[11-Jun-2024 11:38:04 UTC] PHP Warning:  Undefined property: stdClass::$lists in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[11-Jun-2024 11:38:04 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[11-Jun-2024 11:38:18 UTC] PHP Warning:  Undefined property: stdClass::$lists in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[11-Jun-2024 11:38:18 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[11-Jun-2024 11:38:55 UTC] PHP Warning:  Undefined property: stdClass::$lists in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[11-Jun-2024 11:38:55 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[11-Jun-2024 11:39:08 UTC] PHP Warning:  Undefined property: stdClass::$lists in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[11-Jun-2024 11:39:08 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[21-Jun-2024 18:39:47 UTC] PHP Warning:  Undefined property: stdClass::$lists in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[21-Jun-2024 18:39:47 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[25-Jun-2024 02:05:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/henkanso/public_html/wp-includes/PHPMailer/PHPMailer.php:881
+Stack trace:
+#0 /home/henkanso/public_html/wp-includes/PHPMailer/PHPMailer.php(1972): PHPMailer\PHPMailer\PHPMailer->mailPassthru('Abas.abdullahi@...', '=?us-ascii?Q?[H...', 'Howdy! Your sit...', 'Date: Tue, 25 J...', NULL)
+#1 /home/henkanso/public_html/wp-includes/PHPMailer/PHPMailer.php(1693): PHPMailer\PHPMailer\PHPMailer->mailSend('Date: Tue, 25 J...', 'Howdy! Your sit...')
+#2 /home/henkanso/public_html/wp-includes/PHPMailer/PHPMailer.php(1525): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/henkanso/public_html/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/henkanso/public_html/wp-admin/includes/class-wp-automatic-updater.php(976): wp_mail(Array, '[Henkansolution...', 'Howdy! Your sit...', Array)
+#5 /home/henkanso/public_html/wp-admin/includes/class-wp-automatic-updater.php(639): WP_Automatic_Updater->send_email('success', Object(stdClass))
+#6 /home/henkanso/public_html/wp-admin/includes/class-wp-automatic-updater.php(606): WP_Automatic_Updater->after_core_update(Object(stdClass))
+#7 /home/henkanso/public_html/wp-includes/update.php(852): WP_Automatic_Updater->run()
+#8 /home/henkanso/public_html/wp-includes/class-wp-hook.php(324): wp_maybe_auto_update('')
+#9 /home/henkanso/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#10 /home/henkanso/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#11 /home/henkanso/public_html/wp-includes/update.php(292): do_action('wp_maybe_auto_u...')
+#12 /home/henkanso/public_html/wp-includes/class-wp-hook.php(324): wp_version_check()
+#13 /home/henkanso/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#14 /home/henkanso/public_html/wp-includes/plugin.php(565): WP_Hook->do_action(Array)
+#15 /home/henkanso/public_html/wp-cron.php(191): do_action_ref_array('wp_version_chec...', Array)
+#16 {main}
+  thrown in /home/henkanso/public_html/wp-includes/PHPMailer/PHPMailer.php on line 881
+[27-Jun-2024 13:04:05 UTC] PHP Warning:  Undefined property: stdClass::$lists in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[27-Jun-2024 13:04:05 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[27-Jun-2024 13:07:22 UTC] PHP Warning:  Undefined property: stdClass::$lists in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[27-Jun-2024 13:07:22 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[27-Jun-2024 13:44:56 UTC] PHP Warning:  Undefined property: stdClass::$lists in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[27-Jun-2024 13:44:56 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[27-Jun-2024 16:37:21 UTC] PHP Warning:  Undefined property: stdClass::$lists in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[27-Jun-2024 16:37:21 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[30-Jun-2024 06:41:34 UTC] PHP Warning:  session_start(): Session ID is too long or contains illegal characters. Only the A-Z, a-z, 0-9, &quot;-&quot;, and &quot;,&quot; characters are allowed in /home/henkanso/public_html/wp-content/plugins/unyson/framework/includes/hooks.php on line 259
+[30-Jun-2024 06:41:34 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php81) in /home/henkanso/public_html/wp-content/plugins/unyson/framework/includes/hooks.php on line 259
+[04-Jul-2024 15:01:10 UTC] PHP Warning:  Undefined property: stdClass::$lists in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[04-Jul-2024 15:01:10 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[17-Jul-2024 01:27:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/henkanso/public_html/wp-includes/PHPMailer/PHPMailer.php:881
+Stack trace:
+#0 /home/henkanso/public_html/wp-includes/PHPMailer/PHPMailer.php(1972): PHPMailer\PHPMailer\PHPMailer->mailPassthru('Abas.abdullahi@...', '=?us-ascii?Q?[H...', 'Howdy! Your sit...', 'Date: Wed, 17 J...', NULL)
+#1 /home/henkanso/public_html/wp-includes/PHPMailer/PHPMailer.php(1693): PHPMailer\PHPMailer\PHPMailer->mailSend('Date: Wed, 17 J...', 'Howdy! Your sit...')
+#2 /home/henkanso/public_html/wp-includes/PHPMailer/PHPMailer.php(1525): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/henkanso/public_html/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/henkanso/public_html/wp-admin/includes/class-wp-automatic-updater.php(976): wp_mail(Array, '[Henkansolution...', 'Howdy! Your sit...', Array)
+#5 /home/henkanso/public_html/wp-admin/includes/class-wp-automatic-updater.php(639): WP_Automatic_Updater->send_email('success', Object(stdClass))
+#6 /home/henkanso/public_html/wp-admin/includes/class-wp-automatic-updater.php(606): WP_Automatic_Updater->after_core_update(Object(stdClass))
+#7 /home/henkanso/public_html/wp-includes/update.php(852): WP_Automatic_Updater->run()
+#8 /home/henkanso/public_html/wp-includes/class-wp-hook.php(324): wp_maybe_auto_update('')
+#9 /home/henkanso/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#10 /home/henkanso/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#11 /home/henkanso/public_html/wp-includes/update.php(292): do_action('wp_maybe_auto_u...')
+#12 /home/henkanso/public_html/wp-includes/class-wp-hook.php(324): wp_version_check()
+#13 /home/henkanso/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#14 /home/henkanso/public_html/wp-includes/plugin.php(565): WP_Hook->do_action(Array)
+#15 /home/henkanso/public_html/wp-cron.php(191): do_action_ref_array('wp_version_chec...', Array)
+#16 {main}
+  thrown in /home/henkanso/public_html/wp-includes/PHPMailer/PHPMailer.php on line 881
+[17-Jul-2024 12:19:14 UTC] Cron reschedule event error for hook: elementor/tracker/send_event, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"daily","args":[],"interval":86400}
+[24-Jul-2024 01:26:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/henkanso/public_html/wp-includes/PHPMailer/PHPMailer.php:881
+Stack trace:
+#0 /home/henkanso/public_html/wp-includes/PHPMailer/PHPMailer.php(1972): PHPMailer\PHPMailer\PHPMailer->mailPassthru('Abas.abdullahi@...', '=?us-ascii?Q?[H...', 'Howdy! Your sit...', 'Date: Wed, 24 J...', NULL)
+#1 /home/henkanso/public_html/wp-includes/PHPMailer/PHPMailer.php(1693): PHPMailer\PHPMailer\PHPMailer->mailSend('Date: Wed, 24 J...', 'Howdy! Your sit...')
+#2 /home/henkanso/public_html/wp-includes/PHPMailer/PHPMailer.php(1525): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/henkanso/public_html/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/henkanso/public_html/wp-admin/includes/class-wp-automatic-updater.php(1141): wp_mail(Array, '[Henkansolution...', 'Howdy! Your sit...', Array)
+#5 /home/henkanso/public_html/wp-admin/includes/class-wp-automatic-updater.php(804): WP_Automatic_Updater->send_email('success', Object(stdClass))
+#6 /home/henkanso/public_html/wp-admin/includes/class-wp-automatic-updater.php(771): WP_Automatic_Updater->after_core_update(Object(stdClass))
+#7 /home/henkanso/public_html/wp-includes/update.php(855): WP_Automatic_Updater->run()
+#8 /home/henkanso/public_html/wp-includes/class-wp-hook.php(324): wp_maybe_auto_update('')
+#9 /home/henkanso/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#10 /home/henkanso/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#11 /home/henkanso/public_html/wp-includes/update.php(293): do_action('wp_maybe_auto_u...')
+#12 /home/henkanso/public_html/wp-includes/class-wp-hook.php(324): wp_version_check()
+#13 /home/henkanso/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#14 /home/henkanso/public_html/wp-includes/plugin.php(565): WP_Hook->do_action(Array)
+#15 /home/henkanso/public_html/wp-cron.php(191): do_action_ref_array('wp_version_chec...', Array)
+#16 {main}
+  thrown in /home/henkanso/public_html/wp-includes/PHPMailer/PHPMailer.php on line 881
+[14-Aug-2024 07:56:13 UTC] WordPress database error Server shutdown in progress for query SELECT   wp_posts.*
+					 FROM wp_posts 
+					 WHERE 1=1  AND wp_posts.post_type = 'elementor_library' AND ((wp_posts.post_status = 'publish'))
+					 
+					 ORDER BY wp_posts.post_date DESC
+					  made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, cs_framework_init, cs_locate_template, load_template, require_once('/plugins/xoha-pro/cs-framework/config/metabox.config.php'), CSFramework_Metabox::instance, CSFramework_Metabox->__construct, apply_filters('cs_metabox_options'), WP_Hook->apply_filters, MetaboxSideNav->sidenav, MetaboxSideNav->elementor_library_list, get_posts, WP_Query->query, WP_Query->get_posts
+[19-Aug-2024 20:17:56 UTC] WordPress database error Server shutdown in progress for query SELECT   wp_posts.*
+					 FROM wp_posts 
+					 WHERE 1=1  AND wp_posts.post_type = 'elementor_library' AND ((wp_posts.post_status = 'publish'))
+					 
+					 ORDER BY wp_posts.post_date DESC
+					  made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, cs_framework_init, cs_locate_template, load_template, require_once('/plugins/xoha-pro/cs-framework/config/metabox.config.php'), CSFramework_Metabox::instance, CSFramework_Metabox->__construct, apply_filters('cs_metabox_options'), WP_Hook->apply_filters, MetaboxSideNav->sidenav, MetaboxSideNav->elementor_library_list, get_posts, WP_Query->query, WP_Query->get_posts
+[27-Aug-2024 11:26:09 UTC] PHP Warning:  Undefined property: stdClass::$lists in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[27-Aug-2024 11:26:09 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[27-Aug-2024 12:43:22 UTC] PHP Warning:  Undefined property: stdClass::$lists in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[27-Aug-2024 12:43:22 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[01-Sep-2024 14:16:42 UTC] PHP Warning:  session_start(): Session ID is too long or contains illegal characters. Only the A-Z, a-z, 0-9, &quot;-&quot;, and &quot;,&quot; characters are allowed in /home/henkanso/public_html/wp-content/plugins/unyson/framework/includes/hooks.php on line 259
+[01-Sep-2024 14:16:42 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php81) in /home/henkanso/public_html/wp-content/plugins/unyson/framework/includes/hooks.php on line 259
+[01-Sep-2024 14:16:49 UTC] PHP Warning:  session_start(): Session ID is too long or contains illegal characters. Only the A-Z, a-z, 0-9, &quot;-&quot;, and &quot;,&quot; characters are allowed in /home/henkanso/public_html/wp-content/plugins/unyson/framework/includes/hooks.php on line 259
+[01-Sep-2024 14:16:49 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php81) in /home/henkanso/public_html/wp-content/plugins/unyson/framework/includes/hooks.php on line 259
+[04-Sep-2024 11:24:11 UTC] PHP Warning:  Undefined property: stdClass::$lists in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[04-Sep-2024 11:24:11 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[04-Sep-2024 11:24:50 UTC] PHP Warning:  Undefined property: stdClass::$lists in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[04-Sep-2024 11:24:50 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[04-Sep-2024 11:26:20 UTC] PHP Warning:  Undefined property: stdClass::$lists in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[04-Sep-2024 11:26:20 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[10-Sep-2024 08:25:52 UTC] PHP Warning:  Undefined property: stdClass::$lists in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[10-Sep-2024 08:25:53 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[11-Sep-2024 01:22:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/henkanso/public_html/wp-includes/PHPMailer/PHPMailer.php:881
+Stack trace:
+#0 /home/henkanso/public_html/wp-includes/PHPMailer/PHPMailer.php(1972): PHPMailer\PHPMailer\PHPMailer->mailPassthru('Abas.abdullahi@...', '=?us-ascii?Q?[H...', 'Howdy! Your sit...', 'Date: Wed, 11 S...', NULL)
+#1 /home/henkanso/public_html/wp-includes/PHPMailer/PHPMailer.php(1693): PHPMailer\PHPMailer\PHPMailer->mailSend('Date: Wed, 11 S...', 'Howdy! Your sit...')
+#2 /home/henkanso/public_html/wp-includes/PHPMailer/PHPMailer.php(1525): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/henkanso/public_html/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/henkanso/public_html/wp-admin/includes/class-wp-automatic-updater.php(1141): wp_mail(Array, '[Henkansolution...', 'Howdy! Your sit...', Array)
+#5 /home/henkanso/public_html/wp-admin/includes/class-wp-automatic-updater.php(804): WP_Automatic_Updater->send_email('success', Object(stdClass))
+#6 /home/henkanso/public_html/wp-admin/includes/class-wp-automatic-updater.php(771): WP_Automatic_Updater->after_core_update(Object(stdClass))
+#7 /home/henkanso/public_html/wp-includes/update.php(855): WP_Automatic_Updater->run()
+#8 /home/henkanso/public_html/wp-includes/class-wp-hook.php(324): wp_maybe_auto_update('')
+#9 /home/henkanso/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#10 /home/henkanso/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#11 /home/henkanso/public_html/wp-includes/update.php(293): do_action('wp_maybe_auto_u...')
+#12 /home/henkanso/public_html/wp-includes/class-wp-hook.php(324): wp_version_check()
+#13 /home/henkanso/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#14 /home/henkanso/public_html/wp-includes/plugin.php(565): WP_Hook->do_action(Array)
+#15 /home/henkanso/public_html/wp-cron.php(191): do_action_ref_array('wp_version_chec...', Array)
+#16 {main}
+  thrown in /home/henkanso/public_html/wp-includes/PHPMailer/PHPMailer.php on line 881
+[12-Sep-2024 07:37:44 UTC] PHP Warning:  Undefined property: stdClass::$lists in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78
+[12-Sep-2024 07:37:44 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/henkanso/public_html/wp-content/plugins/wedesigntech-elementor-addon/inc/widgets/mailchimp/class-widget-base.php on line 78

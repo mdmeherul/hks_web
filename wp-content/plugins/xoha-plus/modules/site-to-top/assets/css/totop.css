@@ -1,0 +1,137 @@
+/*--------------------------------------------------------------
+    Totop
+--------------------------------------------------------------*/
+
+#back-to-top
+{
+    position: fixed;
+    z-index: 9;
+    right: 20px;
+    bottom: 20px;
+
+    display: none;
+    overflow: hidden;
+
+    width: 40px;
+    height: 40px;
+
+    text-decoration: none;
+    text-indent: 100%;
+    text-indent: -9999px;
+
+    border: none;
+    border-radius: var(--wdtRadius_2X);
+}
+
+.back-to-top-icon
+{
+    font-size: 20px;
+    line-height: 1;
+
+    position: absolute;
+    top: 50%;
+    right: 0;
+    left: 0;
+
+    display: block;
+
+    margin: 0 auto;
+
+    -webkit-transition: all .3s linear;
+       -moz-transition: all .3s linear;
+        -ms-transition: all .3s linear;
+         -o-transition: all .3s linear;
+            transition: all .3s linear;
+    -webkit-transform: translateY(-50%);
+       -moz-transform: translateY(-50%);
+        -ms-transform: translateY(-50%);
+            transform: translateY(-50%);
+    text-align: center;
+    text-indent: 0;
+
+    color: var(--wdtAccentTxtColor);
+}
+
+.back-to-top-icon i:before
+{
+    margin: 0;
+}
+
+#back-to-top:hover .back-to-top-icon
+{
+    margin-top: -5px;
+
+    color: var(--wdtHeadAltColor);
+}
+
+#back-to-top:after
+{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+
+    display: block;
+
+    width: 2px;
+    height: 15px;
+    margin: 0 auto;
+
+    content: '';
+    -webkit-transition: all .3s linear;
+            transition: all .3s linear;
+    -webkit-transform: translate(-50%, 50%);
+            transform: translate(-50%, 50%);
+    text-align: center;
+    text-indent: 0;
+
+    opacity: 0;
+    background-color: var(--wdtAccentTxtColor);
+}
+
+#back-to-top:hover:after
+{
+    margin-top: 2px;
+
+    -webkit-transform: translate(-50%, -50%);
+            transform: translate(-50%, -50%);
+
+    opacity: 1;
+    background-color: var(--wdtHeadAltColor);
+}
+
+#back-to-top:active,
+#back-to-top:focus
+{
+    outline: none;
+}
+
+
+/*--------------------------------------------------------------
+    Accents
+--------------------------------------------------------------*/
+
+
+/* Primary */
+#back-to-top
+{
+    background-color: var(--wdtPrimaryColor);
+}
+
+/* Secondary */
+#back-to-top:hover
+{
+    background-color: var(--wdtSecondaryColor);
+}
+
+
+/*--------------------------------------------------------------
+    Responsive
+--------------------------------------------------------------*/
+
+@media only screen and (max-width: 1280px)
+{
+    .nav-is-visible #back-to-top
+    {
+        opacity: 0;
+    }
+}

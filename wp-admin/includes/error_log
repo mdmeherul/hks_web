@@ -1,0 +1,4 @@
+[12-Jun-2024 16:06:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/henkanso/public_html/wp-admin/includes/file.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/henkanso/public_html/wp-admin/includes/file.php on line 16

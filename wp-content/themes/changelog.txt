@@ -1,0 +1,31 @@
+*** Xoha WordPress Theme Changelog ***
+
+Version 1.0.5
+
+    * Fixed: Unyson plugin installation issue
+    * Compatible: Elementor Latest Version
+   
+Version 1.0.4
+
+    * Fixed: Portfolio plugin Elementor deprecated error
+    * Fixed: Elementor Addon plugin Elementor deprecated error
+
+Version 1.0.3
+
+    * Updated: RTL with demo content
+    * Compatible: WordPress Latest Version
+    * Compatible: Elementor Latest Version
+    * Removed unwanted plugins from list
+    
+Version 1.0.2
+
+    * Fixed: Pro plugin elementor shortcodes loading elements
+    * Updates: Minor changes
+
+Version 1.0.1
+
+    * Demo content added
+
+Version 1.0.0
+
+    * First release!
